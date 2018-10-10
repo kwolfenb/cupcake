@@ -1,0 +1,18 @@
+.flashy{
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.best{
+  font-weight: bold;
+  font-family: fantasy;
+  color: green;
+  font-size: 24px;
+}
+
+.email{
+  font-family: monospace;
+  font-size: 36px;
+  font-style: oblique;
+}
